@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\PC001\\AndroidStudioProjects\\BreakOut\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wallpaper.png",
+        "source": "C:\\Users\\PC001\\AndroidStudioProjects\\BreakOut\\app\\src\\main\\res\\drawable\\wallpaper.png"
+    },
+    {
+        "merged": "C:\\Users\\PC001\\AndroidStudioProjects\\BreakOut\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bar_short.png",
+        "source": "C:\\Users\\PC001\\AndroidStudioProjects\\BreakOut\\app\\src\\main\\res\\drawable\\bar_short.png"
+    },
+    {
+        "merged": "C:\\Users\\PC001\\AndroidStudioProjects\\BreakOut\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ball_icon.png",
+        "source": "C:\\Users\\PC001\\AndroidStudioProjects\\BreakOut\\app\\src\\main\\res\\drawable\\ball_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\PC001\\AndroidStudioProjects\\BreakOut\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_border.xml",
+        "source": "C:\\Users\\PC001\\AndroidStudioProjects\\BreakOut\\app\\src\\main\\res\\drawable\\layout_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC001\\AndroidStudioProjects\\BreakOut\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\block_icon.png",
+        "source": "C:\\Users\\PC001\\AndroidStudioProjects\\BreakOut\\app\\src\\main\\res\\drawable\\block_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\PC001\\AndroidStudioProjects\\BreakOut\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bar_long.png",
+        "source": "C:\\Users\\PC001\\AndroidStudioProjects\\BreakOut\\app\\src\\main\\res\\drawable\\bar_long.png"
+    }
+]

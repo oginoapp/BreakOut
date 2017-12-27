@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output"><source path="C:\Users\PC001\.android\build-cache\40f150408cb9638a461bc9ed315f87a663d328de\output\assets"/></dataSet><dataSet config="main"><source path="C:\Users\PC001\AndroidStudioProjects\BreakOut\app\src\main\assets"/><source path="C:\Users\PC001\AndroidStudioProjects\BreakOut\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\PC001\AndroidStudioProjects\BreakOut\app\src\debug\assets"/></dataSet></merger>

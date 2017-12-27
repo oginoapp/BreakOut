@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\PC001\\AndroidStudioProjects\\BreakOut\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\PC001\\AndroidStudioProjects\\BreakOut\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC001\\AndroidStudioProjects\\BreakOut\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner.xml",
+        "source": "C:\\Users\\PC001\\AndroidStudioProjects\\BreakOut\\app\\src\\main\\res\\layout\\spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC001\\AndroidStudioProjects\\BreakOut\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_init.xml",
+        "source": "C:\\Users\\PC001\\AndroidStudioProjects\\BreakOut\\app\\src\\main\\res\\layout\\activity_init.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC001\\AndroidStudioProjects\\BreakOut\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_dropdown.xml",
+        "source": "C:\\Users\\PC001\\AndroidStudioProjects\\BreakOut\\app\\src\\main\\res\\layout\\spinner_dropdown.xml"
+    }
+]

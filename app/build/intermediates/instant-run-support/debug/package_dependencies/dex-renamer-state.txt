@@ -1,0 +1,10 @@
+#Wed Dec 27 11:29:14 JST 2017
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=C\:\\Users\\PC001\\AndroidStudioProjects\\BreakOut\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.1_f9b7fc5f6fd70bd999818363facd95b82a7b1485
+base.1=C\:\\Users\\PC001\\AndroidStudioProjects\\BreakOut\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.1_be22499d722daf7e39d735090059a632933a79f5
+base.0=C\:\\Users\\PC001\\AndroidStudioProjects\\BreakOut\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_586d711a0f3cca6bb085a3ba4d869d3d6710a0e8
+file.2=C\:\\Users\\PC001\\AndroidStudioProjects\\BreakOut\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.1_f9b7fc5f6fd70bd999818363facd95b82a7b1485\\classes.dex
+file.1=C\:\\Users\\PC001\\AndroidStudioProjects\\BreakOut\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.1_be22499d722daf7e39d735090059a632933a79f5\\classes.dex
+file.0=C\:\\Users\\PC001\\AndroidStudioProjects\\BreakOut\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_586d711a0f3cca6bb085a3ba4d869d3d6710a0e8\\classes.dex

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC001\AndroidStudioProjects\BreakOut\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f90a47446cf8c227a09e0a313d111eb5ef101726">
+        <dex dex="C:\Users\PC001\AndroidStudioProjects\BreakOut\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c8d5e8aa6e22c4f78dc3cd0fdc7e625d738ee80f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC001\.android\build-cache\40f150408cb9638a461bc9ed315f87a663d328de\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\PC001\AndroidStudioProjects\BreakOut\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_586d711a0f3cca6bb085a3ba4d869d3d6710a0e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC001\.android\build-cache\40f150408cb9638a461bc9ed315f87a663d328de\output\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\PC001\AndroidStudioProjects\BreakOut\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_be22499d722daf7e39d735090059a632933a79f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC001\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\PC001\AndroidStudioProjects\BreakOut\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_f9b7fc5f6fd70bd999818363facd95b82a7b1485\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC001\AndroidStudioProjects\BreakOut\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\PC001\AndroidStudioProjects\BreakOut\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_cebfc30cb64582166ad7927d89ef4e729c89cfc9\classes.dex" />
+    </item>
+
+</items>
