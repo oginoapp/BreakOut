@@ -115,8 +115,8 @@ public class InitActivity extends Activity {
 		blockQuantAdapter.add("12 × 12");
 		blockQuantAdapter.add("16 × 16");
 		blockQuantAdapter.add("32 × 32（非推奨）");
-		//blockQuantAdapter.add("64 × 64");
-		//blockQuantAdapter.add("128 × 128");
+		//blockQuantAdapter.add("64 × 64"（非推奨）);
+		//blockQuantAdapter.add("128 × 128（非推奨）");
 		blockQuantSelector.setAdapter(blockQuantAdapter);
 		blockQuantSelector.setSelection(1);
 
